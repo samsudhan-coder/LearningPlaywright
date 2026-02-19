@@ -20,13 +20,31 @@ function testfunc(){
   // let fn = "testname";
     //console.log(fn);
     if(true){
-        //console.log(fn);
-        let fn="testname";
-       console.log(fn);
-    }
-    console.log(fn);
+        let fn = "sam";
+        if(true){
+            //console.log(fn);
+            let fn="testname";
+            console.log(fn);
+        }
+        console.log(fn);
+    }        
+     console.log(fn);
 }
 
 testfunc();
 
 console.log(fn);
+
+
+
+let name_1 = "Sam";
+let fullname = `template literal: ${name_1} Sudhan`;
+console.log(fullname);
+
+console.log(`2+2 = ${2+2}`); // template literal with expression
+
+// String aa =10;
+// console.log(aa);
+
+console.log(5 == "5.0");
+console.log(5 === "5.0");
