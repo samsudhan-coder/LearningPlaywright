@@ -48,3 +48,10 @@ console.log(`2+2 = ${2+2}`); // template literal with expression
 
 console.log(5 == "5.0");
 console.log(5 === "5.0");
+//console.log(5 === "5.0"); duplicate code
+a = true
+if(true){
+
+}else if(false){
+
+}
