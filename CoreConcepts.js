@@ -49,9 +49,31 @@ console.log(`2+2 = ${2+2}`); // template literal with expression
 console.log(5 == "5.0");
 console.log(5 === "5.0");
 //console.log(5 === "5.0"); duplicate code
-a = true
-if(true){
+// a = true
+// if(true){
 
-}else if(false){
+// }else if(false){
 
-}
+// }
+
+console.log(2 ** 3);
+
+console.log('5' + 3);
+
+console.log('5' - 3);
+
+console.log(true + true);
+
+console.log(0 || 'hello');
+
+console.log(0 ?? 'hello');
+
+if ('') { console.log('yes'); } else { console.log('no'); }
+
+console.log(Boolean([]));
+
+for (let i = 0; i < 5; i++) { if (i === 3) break; }
+console.log(i);
+
+
+   

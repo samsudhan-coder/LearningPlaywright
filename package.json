@@ -1,0 +1,24 @@
+{
+  "name": "learningplaywright",
+  "version": "1.0.0",
+  "description": "Small demo repo for Playwright experiments and LLM examples.",
+  "main": "01_basics_llm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsudhan-coder/LearningPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/samsudhan-coder/LearningPlaywright/issues"
+  },
+  "homepage": "https://github.com/samsudhan-coder/LearningPlaywright#readme",
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}
